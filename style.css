@@ -236,7 +236,7 @@ body {
   #hero {
     width: 100%;
     height: 95vh;
-    background: url("/images/csu1.jpg") top center;
+    background: url("images/csu1.jpg") top center;
     background-size: cover;
     position: relative;
     border-bottom: 1px solid #222;
